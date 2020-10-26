@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Titillium+Web:wght@200&display=swap');
+
+:root{
+    --background: #000000;
+    --red: #c20000;
+    --blue: #001f78;
+    --gradient: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+
+    --font: 'Titillium web', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: var(--font);
+    background-color: var(--background);
+}
+
+@media screen and (max-width:1199px){
+
+}
+@media screen and (max-width:767px){
+    
+}
+@media screen and (max-width:575px){
+    
+}
