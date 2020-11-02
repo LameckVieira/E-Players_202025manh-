@@ -258,37 +258,37 @@ img{
 .cards1{
     width: 14.8125em;
     height: 22.75em;
-    background-color: rgba(204, 204, 204, 0.178);
+    background-color: rgba(204, 204, 204, 0.014);
 }
 .cards2{
     width: 14.8125em;
     height: 22.75em;
-    background-color: rgba(204, 204, 204, 0.178); 
+    background-color: rgba(204, 204, 204, 0.014); 
 }
 .cards3{
     width: 14.8125em;
     height: 22.75em;
-    background-color: rgba(204, 204, 204, 0.178);  
+    background-color: rgba(204, 204, 204, 0.014);  
 }
 .cards4{
     width: 14.8125em;
     height: 22.75em;
-    background-color: rgba(204, 204, 204, 0.178);  
+    background-color: rgba(204, 204, 204, 0.014);  
 }
 .cards5{
     width: 14.8125em;
     height: 22.75em;
-    background-color: rgba(204, 204, 204, 0.178); 
+    background-color: rgba(204, 204, 204, 0.014);
 }
 .cards6{
     width: 14.8125em;
     height: 22.75em;
-    background-color: rgba(204, 204, 204, 0.178); 
+    background-color: rgba(204, 204, 204, 0.014); 
 }
 .proxpartidas{
     width: 14.8125em;
     height: 44.9375em;
-    background-color: rgba(204, 204, 204, 0.178);
+    background-color: rgba(204, 204, 204, 0.014);
     font-size: 18px;
     display: flex;
     align-items: center;
@@ -337,7 +337,7 @@ img{
     color: #fff; 
 }
 .rodape a{
-    /*text-decoration: none;*/
+    text-decoration: none;
     text-transform: uppercase;
     color: #fff;
 }
